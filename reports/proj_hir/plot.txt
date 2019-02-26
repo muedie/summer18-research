@@ -1,0 +1,2 @@
+plot "lirs_proj_71_.dat" with lines, "lirs_proj_76_.dat" with lines, "lirs_proj_66_.dat" with lines, "lirs_proj_61_.dat" with lines, "lirs_proj_56_.dat" with lines, "lirs_proj_51_.dat" with lines, "lirs_proj_46_.dat" with lines, "lirs_proj_41_.dat" with lines, "lirs_proj_36_.dat" with lines, "lirs_proj_31_.dat" with lines, "lirs_proj_26_.dat" with lines, "lirs_proj_21_.dat" with lines, "lirs_proj_16_.dat" with lines, "lirs_proj_11_.dat" with lines, "lirs_proj_6_.dat" with lines, "lirs_proj_1_.dat" with lines
+
